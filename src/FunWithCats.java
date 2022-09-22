@@ -42,8 +42,8 @@ public class FunWithCats {
 
        */
 
-
-
+        Cat cat3 = new Cat("grey","Luna",2,false,false);
+        cat3.printCatInfo();
 
 
 
